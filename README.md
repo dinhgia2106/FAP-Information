@@ -13,11 +13,10 @@
 8. Nhập mã 6 số được tạo từ ứng dụng xác thực.
 
 ## Bước 2: Mở File `config.txt` và Điều Chỉnh Thông Số Như Sau
-- `campus`: theo format FU-[Tên thành phố của campus bạn đang học]
+- `campus`: theo format FU-[Tên thành phố của campus bạn đang học]. Ví dụ: FU-Đà Nẵng
 - `username`: mail FPT của bạn
 - `password`: mật khẩu mail
 - `secret_key`: mã xác thực 2 yếu tố khi tạo ở Bước 1 (24 ký tự)
-- `number_of_credits`: tổng số tín chỉ, mỗi chuyên ngành mỗi khác (Mặc định ngành AI là 132)
 
 ## Bước 3: Lấy Dữ Liệu
 1. Chạy file `getFAP.exe` và chờ nó chạy hết.
