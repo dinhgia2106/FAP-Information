@@ -1,0 +1,5 @@
+[LOGIN]
+campus=FU-Đà Nẵng
+username=yourmailhere
+password=yourpasswordhere
+secret_key=yoursecrectkeyhere

@@ -1,0 +1,2 @@
+getFAP.exe filter=lfs diff=lfs merge=lfs -text
+GPA.exe filter=lfs diff=lfs merge=lfs -text
